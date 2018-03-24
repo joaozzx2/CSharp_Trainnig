@@ -6,7 +6,7 @@
 3) Algumas contas ja foram criadas sendo elas todas com o nome Teste(1-5) e senha test
 saldo diferente para cada uma.
 
-4) Todas as operaçoes como Tranferencia, Saque, Deposito foram implementadas
+4) Todas as operaÃ§oes como Tranferencia, Saque, Deposito foram implementadas
 
 5) A trasnferencia ocorre por numero de conta, ou seja, para simular uma transferencia
 basta digitar o numero da conta (ou o nome do arquivo txt)
